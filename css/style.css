@@ -1,0 +1,107 @@
+*{margin: 0px;
+padding: 0px;}
+
+#container{
+    background-color: rgb(233, 232, 225)
+}
+
+#pA{
+    display: block;
+    background-color: rgb(233, 232, 225)
+}
+
+#pB{
+    display: none;
+    background-color: rgb(233, 232, 225)
+}
+
+#pC{
+    display: none;
+    background-color: rgb(233, 232, 225)
+}
+
+.navigation a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 0 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.header-top {
+    background: rgb(70, 65, 65);
+    color: rgba(255, 255, 255, 0.877);
+    display: flex;
+    justify-content: space-around;
+    padding:10px 0;
+    font-family: 'Kreon', serif;
+
+}
+
+#carro1{
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+}
+
+#carro2{
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+}
+
+#carro3{
+    width: 500px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+}
+
+.textos{
+    color: rgba(0, 0, 0, 0.877);
+    text-align: center;
+    font-style: bold;
+    width: 500px;
+    margin: 0 auto;
+    font-family: 'Merienda', cursive;
+}
+
+#titulo1{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+
+}
+
+
+#titulo2{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+
+}
+
+
+#titulo3{
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+
+}  
+
+.rodapé{
+    background: rgb(70, 65, 65);
+    color: rgba(255, 255, 255, 0.877);
+    display: flex;
+    justify-content: space-around;
+    padding:10px 0; 
+}
