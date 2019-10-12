@@ -5,9 +5,7 @@ padding: 0px;}
     background-color: rgb(233, 232, 225)
 }
 
-#pA{
-    display: block;
-}
+
 
 #pB{
     display: none;
@@ -57,6 +55,13 @@ nav.navigation {
 
 }
 
+.carros-informacoes {
+    display: flex;
+    padding: 0 30px;
+}
+.informacao {
+    padding: 0 20px;
+}
 #carro1{
     width: 500px;
     height: auto;
